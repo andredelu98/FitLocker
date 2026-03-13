@@ -91,9 +91,9 @@ Behind the scenes, the system handles the physical constraints of the locker. It
 
 </details>
 
-<br><br>
+<br>
 
-> 📄 **Want to dive deeper?** Read the full [Project Report (PDF) 🇮🇹](docs/MUSA_Report.pdf) for all the details.
+> 📄 **Want to dive deeper?** Read the full [Project Report (PDF) 🇮🇹](docs/FitLocker_Report.pdf) for all the details.
 
 ---
 
