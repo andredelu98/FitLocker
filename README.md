@@ -93,7 +93,7 @@ Behind the scenes, the system handles the physical constraints of the locker. It
 
 <br><br>
 
-> 💡 **Want to dive deeper?** Read our full **[Project Report (PDF)](docs/FitLocker_Report.pdf)** to explore the complete UX research, hardware schematics, and software architecture.
+> 📄 **Want to dive deeper?** Read the full [Project Report (PDF) 🇮🇹](docs/MUSA_Report.pdf) for all the details.
 
 ---
 
